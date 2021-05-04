@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotarCycle_RacingAssign", "MotarCycle_RacingAssign\MotarCycle_RacingAssign.csproj", "{1B19F92F-3F55-48BB-AF00-729A74A6DB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotarCycle_RacingAssignTests", "MotarCycle_RacingAssignTests\MotarCycle_RacingAssignTests.csproj", "{AEBC17A7-16B4-4002-80CC-8D50FA99B87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B19F92F-3F55-48BB-AF00-729A74A6DB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B19F92F-3F55-48BB-AF00-729A74A6DB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B19F92F-3F55-48BB-AF00-729A74A6DB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B19F92F-3F55-48BB-AF00-729A74A6DB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBC17A7-16B4-4002-80CC-8D50FA99B87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBC17A7-16B4-4002-80CC-8D50FA99B87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBC17A7-16B4-4002-80CC-8D50FA99B87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBC17A7-16B4-4002-80CC-8D50FA99B87A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A50282F-28EE-4A73-8FC5-3F1DEAD3472D}
+	EndGlobalSection
+EndGlobal
